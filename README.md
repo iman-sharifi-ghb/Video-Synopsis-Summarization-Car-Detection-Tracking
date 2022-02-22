@@ -1,6 +1,6 @@
 # Video-Synopsis
 
-This repository contains Video Summarization and frame compression without losing any important data\
+This repository contains Video Summarization and frame compression without losing any important data
 
 For using the main file just try to use: \
 [multiObjectTracking.ipynb](https://github.com/98210184/Video-Synopsis/blob/main/Video%20Synopsis/Video1/Multi-Object%20Tracking%20.ipynb)
