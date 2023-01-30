@@ -12,7 +12,7 @@ And for using related works like:\
 4-`Vehicle detection`\
 5-`Object tracking using SIFT`\
 6-`Vehicle counting`\
-7-`Object Tracking using Optical Flow`,\
+7-`Object Tracking using Optical Flow`,
 
 just try to use: \
 [Related Works.ipynb](https://github.com/98210184/Video-Synopsis/blob/main/Video%20Synopsis/Video1/RelatedWorks.ipynb)
